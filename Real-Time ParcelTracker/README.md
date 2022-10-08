@@ -1,4 +1,3 @@
-# Go-Delivery-App-Andriod
 Make your delivery with tracking your parcel. Delivery app for your precious parcels, even with real-time tracking the delivery person. Give it a try! to make your life easy. Android mobile app.
 
 <p float="left">
